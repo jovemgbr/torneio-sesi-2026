@@ -36,4 +36,5 @@ pnpm dev
 # ou
 bun dev
 
-Abra http://localhost:3000 no navegador para ver o resultado.
+Abra http://localhost:3000 no navegador para ver o resultado
+## bentinho esteve aqui!
